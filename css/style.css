@@ -90,6 +90,7 @@ img {
 .custom-controls li img {
   height: 80px;
   width: 80px;
+  object-fit: cover;
 }
 
 .custom-controls li.active {
